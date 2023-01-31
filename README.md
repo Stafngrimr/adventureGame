@@ -12,6 +12,4 @@ The game will introduce you to the options, but it's quite simple. When you star
 
 - In adventure you can select y, n or anything else and anything else still dumps. Just want y or n to work and anything else be "That's not an acceptable answer".
 
-- silver is throwing up a warning as undefined in encounters.c but I'm not really sure why. It still compiles.
-
-- You should only be able to have 1 of the purple and orange items. Otherwise you can end up with two "The One Rings", and it makes more sense that once you've got them, you can't get more.
+- I'd prefer that you're only able to have 1 of the purple and orange items. Otherwise you can end up with two "The One Rings", and it makes more sense that once you've got them, you can't get more.
